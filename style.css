@@ -1,3 +1,46 @@
 *{
-    background-color: aqua;
+    margin:0;
+    padding:0;
+
 }
+body{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: #fdf8f5;
+    color: #4F4846;
+
+}
+h1,
+h2{
+    margin: 20px;
+
+}
+main{
+    padding: 60px 0;
+}
+.text-right {
+    text-align: right;
+  }
+  
+  li {
+    display: inline;
+    padding: 0px 20px;
+    text-decoration: none;
+  }
+  img {
+    display: block;
+    margin: 20px auto;
+  }
+  .text-center {
+    text-align: center;
+  }
+  form {
+    /* Center the form on the page */
+    margin: 0 auto;
+    width: 500px;
+    padding: 10px;
+    border: 5px solid #DDAF94;
+    border-radius: 20px;
+  }
+  
